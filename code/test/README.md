@@ -1,5 +1,5 @@
 ### **Results for attached Sample EML Files**
-| EML File Name | Email Content Summary | Expected Request Type(s) | Confidence Score(s) | Extracted Key Fields | Duplicate Detected |
+| EML File Name | Email Content Summary | Request Type(s) | Confidence Score(s) | Extracted Key Fields | Duplicate Detected |
 |--------------|----------------------|-------------------|----------------|------------------|-----------------|
 | loan_request_001.eml | Customer requesting a new mortgage loan | New Loan Request | 0.92 | Loan Amount, Term, Interest Rate | No |
 | loan_status_002.eml | Inquiry about the status of an existing loan | Loan Status Inquiry | 0.88 | Loan ID, Current Status | No |
