@@ -1,0 +1,18 @@
+{
+    "Loan Modification": {
+        "sub_types": ["Interest Rate Change", "Loan Term Extension", "Principal Reduction"],
+        "description": "Requests related to modifying loan terms."
+    },
+    "Payment Inquiry": {
+        "sub_types": ["Missing Payment", "Overpayment", "Payment Allocation"],
+        "description": "Inquiries related to payments on the loan."
+    },
+    "Escrow Account": {
+        "sub_types": ["Tax Payment Issue", "Insurance Update", "Escrow Shortage"],
+        "description": "Requests related to escrow accounts and associated payments."
+    },
+    "Payoff Request": {
+        "sub_types": ["Full Payoff", "Partial Payoff"],
+        "description": "Requests to pay off the remaining balance of the loan."
+    }
+}

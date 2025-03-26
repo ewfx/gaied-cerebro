@@ -1,0 +1,18 @@
+{
+  "Loan Inquiry": {
+    "Interest Rate": "Extract the mentioned interest rate percentage.",
+    "Loan Term": "Extract the loan term duration."
+  },
+  "Loan Modification": {
+    "New Payment": "Extract the new monthly payment amount.",
+    "Effective Date": "Extract the date from when the new payment applies."
+  },
+  "Loan Inquiry > Prepayment": {
+    "Prepayment Penalty": "Extract if there is a penalty for prepayment.",
+    "Remaining Balance": "Extract the remaining loan balance amount."
+  },
+  "Loan Closing": {
+    "Closing Date": "Extract the date for loan closing.",
+    "Final Amount Due": "Extract the final payment amount required to close the loan."
+  }
+}
